@@ -1,2 +1,5 @@
 # CQF
-my cqf
+my cqf coding are stored here
+- python 
+- C++
+- R
